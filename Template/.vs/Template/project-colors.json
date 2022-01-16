@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d77de58-8247-4dcf-9d06-f7dc4066eb3a": {
+      "ProjectGuid": "7d77de58-8247-4dcf-9d06-f7dc4066eb3a",
+      "DisplayName": "Template",
+      "ColorIndex": 0
+    },
+    "aff7b88e-505d-4109-9ae4-0f98af81d7dd": {
+      "ProjectGuid": "aff7b88e-505d-4109-9ae4-0f98af81d7dd",
+      "DisplayName": "FLOW001",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.exe
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.deps.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.runtimeconfig.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.runtimeconfig.dev.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\ref\FLOW001.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\bin\Debug\net5.0\FLOW001.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.csproj.AssemblyReference.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.GeneratedMSBuildEditorConfig.editorconfig
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.AssemblyInfoInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.AssemblyInfo.cs
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.csproj.CoreCompileInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\ref\FLOW001.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\FLOW001\obj\Debug\net5.0\FLOW001.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.exe
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.deps.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.runtimeconfig.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.runtimeconfig.dev.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\ref\Template.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\bin\Debug\net5.0\Template.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.csproj.AssemblyReference.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.AssemblyInfoInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.AssemblyInfo.cs
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.csproj.CoreCompileInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\ref\Template.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Template\obj\Debug\net5.0\Template.genruntimeconfig.cache
