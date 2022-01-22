@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template.csproj", "{7D77DE58-8247-4DCF-9D06-F7DC4066EB3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template", "Template.csproj", "{7D77DE58-8247-4DCF-9D06-F7DC4066EB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLOW001", "..\FLOW001\FLOW001.csproj", "{AFF7B88E-505D-4109-9AE4-0F98AF81D7DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLOW001", "..\FLOW001\FLOW001.csproj", "{AFF7B88E-505D-4109-9AE4-0F98AF81D7DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest_CCSTART-Problem_HDIVISR-Highest_Divisor", "..\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.csproj", "{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AFF7B88E-505D-4109-9AE4-0F98AF81D7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF7B88E-505D-4109-9AE4-0F98AF81D7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF7B88E-505D-4109-9AE4-0F98AF81D7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

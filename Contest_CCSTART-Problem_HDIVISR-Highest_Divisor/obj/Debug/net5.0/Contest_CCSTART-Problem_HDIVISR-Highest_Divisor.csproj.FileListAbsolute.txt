@@ -1,0 +1,16 @@
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.exe
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.deps.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.runtimeconfig.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.runtimeconfig.dev.json
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\ref\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\bin\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.csproj.AssemblyReference.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.AssemblyInfoInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.AssemblyInfo.cs
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.csproj.CoreCompileInputs.cache
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\ref\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.dll
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.pdb
+C:\shared-sync\Projekte\Programmieren\!github\CodeChef\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\obj\Debug\net5.0\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.genruntimeconfig.cache
