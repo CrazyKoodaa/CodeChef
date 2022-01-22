@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four/1.0.0": {
+        "runtime": {
+          "Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLOW001", "..\FLOW001\FLOW0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest_CCSTART-Problem_HDIVISR-Highest_Divisor", "..\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor\Contest_CCSTART-Problem_HDIVISR-Highest_Divisor.csproj", "{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four", "..\Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four\Contest_CCSTART-Problem_LUCKFOUR-Lucky_Four.csproj", "{B8CDADD3-2E6E-453D-A2F4-E1CE9CC77542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C701F4A5-4E9F-4291-826D-0DFDF433BAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CDADD3-2E6E-453D-A2F4-E1CE9CC77542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CDADD3-2E6E-453D-A2F4-E1CE9CC77542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CDADD3-2E6E-453D-A2F4-E1CE9CC77542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CDADD3-2E6E-453D-A2F4-E1CE9CC77542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
