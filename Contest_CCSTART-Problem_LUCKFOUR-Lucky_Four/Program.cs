@@ -8,41 +8,28 @@ namespace Contest_CCSTART_Problem_LUCKFOUR_Lucky_Four
         static void Main(string[] args)
         {
             
-             * int iNumbersToCome;
+            int iNumbersToCome = 0, answer = 0;
+            string[] sNumbers;
+
             iNumbersToCome = Convert.ToInt32(Console.ReadLine());
+            sNumbers = new string[iNumbersToCome];
 
-            
-            
-            string[] iNumbers = new string [iNumbersToCome];
+            for (int i = 0; i < iNumbersToCome; i++)
+                sNumbers[i] = Console.ReadLine();
 
             for (int i = 0; i < iNumbersToCome; i++)
             {
-                iNumbers[i] =Console.ReadLine();
+                // Next 2 lines is the regex Version of counting "4"s
+                //int iCount = Regex.Matches(iNumbers[i], "4").Count;
+                //Console.WriteLine(iCount);
+
+                // or these line without #using System.Text.RegularExpressions;
+                answer = 0;
+                foreach (var a in sNumbers[i])
+                    if (a == '4')
+                        answer++;
+                Console.WriteLine(answer);
             }
-
-            for (int i = 0; i < iNumbersToCome; i++)
-            {
-                int iCount = Regex.Matches(iNumbers[i], "4").Count;
-                Console.WriteLine(iCount);
-            }
-            
-            /*
-
-	                int T = int.Parse(Console.ReadLine());
-		            for (int i = 0; i < T; i++)
-		            {
-		                string input = Console.ReadLine();
-		                int answer = 0;
-		                foreach(var a in input){
-		                    if(a == '4'){
-		                        answer++;
-		                    }
-		                }
-		                Console.WriteLine(answer);
-		            }
-            
-            */
-
         }
     }
 }
